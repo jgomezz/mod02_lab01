@@ -1,6 +1,6 @@
 public class Application{
 
-     String name = "Jaime";
+     String name = "TECSUP";
 
 }
 
