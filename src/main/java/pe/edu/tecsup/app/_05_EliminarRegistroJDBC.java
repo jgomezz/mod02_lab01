@@ -25,7 +25,7 @@ public class _05_EliminarRegistroJDBC {
 			PreparedStatement stmt = con.prepareStatement(sql);
 
 			// Configura el PK del registro a eliminar
-			int id = 12:; // Id de la categoria a eliminar
+			int id = 12; // Id de la categoria a eliminar
 			stmt.setInt(1, id); // EL registro con ID igual a 7 existe
 
 			// Ejecutar la insercion
