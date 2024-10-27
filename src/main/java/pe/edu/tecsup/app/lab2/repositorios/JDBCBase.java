@@ -1,4 +1,4 @@
-package pe.edu.tecsup.app.lab2.repositorio;
+package pe.edu.tecsup.app.lab2.repositorios;
 
 public class JDBCBase {
 

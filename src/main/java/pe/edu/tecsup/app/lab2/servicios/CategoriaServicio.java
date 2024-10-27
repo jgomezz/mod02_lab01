@@ -3,7 +3,7 @@ package pe.edu.tecsup.app.lab2.servicios;
 import java.util.List;
 
 import pe.edu.tecsup.app.lab2.entidades.Categoria;
-import pe.edu.tecsup.app.lab2.repositorio.CategoriaRepositorio;
+import pe.edu.tecsup.app.lab2.repositorios.CategoriaRepositorio;
 
 public class CategoriaServicio {
 	
